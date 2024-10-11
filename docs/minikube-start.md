@@ -44,4 +44,4 @@
    minikube profile list
    ```
 
-   ![minikube profile list](./image/)
+   ![minikube profile list](./images/minikube-profile-list.png)
