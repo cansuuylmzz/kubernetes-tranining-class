@@ -31,3 +31,17 @@
    ```bash
    kubectl get nodes
    ```
+
+6. **Minikube profile**:
+
+   ```bash
+   minikube profile
+   ```
+
+7. **Minikube profile list**:
+
+   ```bash
+   minikube profile list
+   ```
+
+   ![minikube profile list](./image/)
